@@ -9,7 +9,7 @@ like the following picture illustrates
 ![solvepuzzle](https://github.com/Chester-CH/sudokusolver/blob/2b2c61919e37c624dfb539e80d75cb3b16de0328/documentation/images/solvefeature.png)
 
 ## And to empty the table
-By clicking the clear button, the table will be empty
+By clicking the "Clear" button, the table will be empty
 
 ![cleartable](https://github.com/Chester-CH/sudokusolver/blob/2b2c61919e37c624dfb539e80d75cb3b16de0328/documentation/images/clearfeature.png)
 
